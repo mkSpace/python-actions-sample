@@ -1,1 +1,1 @@
-print("Hello-World! : test completed")
+print("[Jaemin] acc: 0.98")
